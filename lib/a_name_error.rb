@@ -1,3 +1,3 @@
 "hello world"
 
-var Solution = hello_world
+hello_world
