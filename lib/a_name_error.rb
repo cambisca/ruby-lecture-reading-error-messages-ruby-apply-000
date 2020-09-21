@@ -1,3 +1,3 @@
 "hello world"
 
-Solution = hello_world
+Solution = "hello_world"
